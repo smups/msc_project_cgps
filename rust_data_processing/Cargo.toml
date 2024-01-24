@@ -1,0 +1,22 @@
+[package]
+name = "rust_data_processing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+#Array stuff
+ndarray = {version="0.15", features=["rayon"]}
+ndarray-rand = "0.14"
+
+#Rustronomy
+rustronomy-fits = "0.2"
+rustronomy-watershed = { version = "0.3.1", features = []}
+
+#Random numbers
+rand = "0.8"
+
+#IO and plotting
+csv = "1"
+
+#Concurrency
+rayon = "1"
