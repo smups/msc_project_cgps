@@ -1,0 +1,23 @@
+[package]
+name = "process"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#Array stuff
+ndarray = {version="0.15", features=["rayon"]}
+
+#Rustronomy
+rustronomy-fits = "0.2"
+rustronomy-watershed = { version = "0.1", features = []}
+
+#Random numbers
+rand = "0.8"
+
+#IO and plotting
+csv = "1"
+
+#Concurrency
+rayon = "1"

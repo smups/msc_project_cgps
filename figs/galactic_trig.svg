@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="309.6pt"
+   height="309.6pt"
+   viewBox="0 0 309.6 309.6"
+   version="1.1"
+   id="svg762"
+   sodipodi:docname="galactic_trig.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="galactic_trig.pdf"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview764"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="2.3637399"
+     inkscape:cx="107.2453"
+     inkscape:cy="211.95225"
+     inkscape:window-width="2256"
+     inkscape:window-height="1425"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg762" />
+  <metadata
+     id="metadata487">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2022-10-06T14:33:38.235402</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs491">
+    <style
+       type="text/css"
+       id="style489">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+  </defs>
+  <g
+     id="patch_1">
+    <path
+       d="M 0,309.6 H 309.6 V 0 H 0 Z"
+       style="fill:none"
+       id="path493" />
+  </g>
+  <g
+     id="patch_2"
+     transform="translate(25.37167,-1.502091)">
+    <path
+       d="M 40.909375,271.25 H 281.84531 V 25.3875 H 40.909375 Z"
+       style="fill:#ffffff"
+       id="path496" />
+  </g>
+  <path
+     style="fill:#ff0000;stroke:#ff0000;stroke-width:0.8503937;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:3.40157485,0.85039371;stroke-dashoffset:0"
+     d="M 181.06641,169.3399 40.957556,271.19011"
+     id="path2807" />
+  <path
+     style="fill:#ff0000;stroke:#ff0000;stroke-width:0.850394;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3.40157, 0.850394;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 225.33291,210.62348 41.102834,271.20225"
+     id="path2807-7"
+     sodipodi:nodetypes="cc" />
+  <g
+     id="matplotlib.axis_1">
+    <g
+       id="xtick_1">
+      <g
+         id="line2d_1">
+        <defs
+           id="defs500">
+          <path
+             id="ma06d0c5b58"
+             d="M 0,0 V 3.5"
+             style="stroke:#000000;stroke-width:0.8" />
+        </defs>
+        <g
+           id="g504">
+          <use
+             xlink:href="#ma06d0c5b58"
+             x="40.909374"
+             y="271.25"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use502" />
+        </g>
+      </g>
+      <g
+         id="text_1">
+        <!-- 0 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,37.832031,285.825)"
+           id="g512">
+          <defs
+             id="defs508">
+            <path
+               id="FiraCode-Regular-30"
+               d="m 1969,4592 q 729,0 1104,-604 376,-604 376,-1727 0,-1125 -376,-1731 -375,-605 -1104,-605 -728,0 -1104,605 -376,606 -376,1731 0,1123 376,1727 376,604 1104,604 z m 0,-443 q -417,0 -657,-442 -239,-441 -239,-1446 0,-751 115,-1181 l 1382,2776 q -207,293 -601,293 z m 900,-1888 q 0,758 -119,1185 L 1375,660 q 207,-289 594,-289 420,0 660,443 240,443 240,1447 z"
+               transform="scale(0.015625)" />
+          </defs>
+          <use
+             xlink:href="#FiraCode-Regular-30"
+             id="use510" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="xtick_2">
+      <g
+         id="line2d_2">
+        <g
+           id="g518">
+          <use
+             xlink:href="#ma06d0c5b58"
+             x="81.065369"
+             y="271.25"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use516" />
+        </g>
+      </g>
+      <g
+         id="text_2">
+        <!-- 2 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,77.988021,285.825)"
+           id="g526">
+          <defs
+             id="defs522">
+            <path
+               id="FiraCode-Regular-32"
+               d="m 1769,4592 q 427,0 732,-166 305,-166 467,-452 163,-285 163,-643 0,-312 -108,-609 Q 2915,2425 2677,2098 2439,1772 2051,1375 1664,978 1106,469 H 3236 L 3167,0 H 479 v 450 q 640,613 1045,1036 406,424 629,731 223,307 310,563 87,256 87,532 0,380 -213,600 -213,220 -594,220 -335,0 -549,-115 -213,-115 -426,-367 l -381,295 q 269,328 596,487 327,160 786,160 z"
+               transform="scale(0.015625)" />
+          </defs>
+          <use
+             xlink:href="#FiraCode-Regular-32"
+             id="use524" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="xtick_3">
+      <g
+         id="line2d_3">
+        <g
+           id="g532">
+          <use
+             xlink:href="#ma06d0c5b58"
+             x="121.22135"
+             y="271.25"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use530" />
+        </g>
+      </g>
+      <g
+         id="text_3">
+        <!-- 4 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,118.14401,285.825)"
+           id="g540">
+          <defs
+             id="defs536">
+            <path
+               id="FiraCode-Regular-34"
+               d="M 2885,2823 V 1539 h 584 V 1099 H 2885 V 0 h -532 l -3,1099 H 473 v 401 L 1799,4592 2258,4398 1057,1539 h 1296 l 72,1284 z"
+               transform="scale(0.015625)" />
+          </defs>
+          <use
+             xlink:href="#FiraCode-Regular-34"
+             id="use538" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="xtick_4">
+      <g
+         id="line2d_4">
+        <g
+           id="g546">
+          <use
+             xlink:href="#ma06d0c5b58"
+             x="161.37735"
+             y="271.25"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use544" />
+        </g>
+      </g>
+      <g
+         id="text_4">
+        <!-- 6 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,158.3,285.825)"
+           id="g554">
+          <defs
+             id="defs550">
+            <path
+               id="FiraCode-Regular-36"
+               d="m 2202,4592 q 260,0 481,-68 222,-67 412,-195 l -217,-374 q -315,190 -686,190 -521,0 -810,-492 -289,-492 -309,-1319 217,321 487,465 271,145 603,145 348,0 640,-156 292,-156 466,-471 174,-315 174,-797 0,-499 -192,-857 Q 3059,305 2735,115 2412,-75 2022,-75 1474,-75 1144,197 814,469 668,966 522,1464 522,2137 q 0,748 198,1299 199,552 576,854 378,302 906,302 z M 2078,2491 q -325,0 -578,-177 -253,-177 -420,-463 16,-765 237,-1123 222,-357 702,-357 429,0 644,303 215,304 215,832 0,555 -220,770 -219,215 -580,215 z"
+               transform="scale(0.015625)" />
+          </defs>
+          <use
+             xlink:href="#FiraCode-Regular-36"
+             id="use552" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="xtick_5">
+      <g
+         id="line2d_5">
+        <g
+           id="g560">
+          <use
+             xlink:href="#ma06d0c5b58"
+             x="201.53334"
+             y="271.25"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use558" />
+        </g>
+      </g>
+      <g
+         id="text_5">
+        <!-- 8 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,198.45599,285.825)"
+           id="g568">
+          <defs
+             id="defs564">
+            <path
+               id="FiraCode-Regular-38"
+               d="m 3325,3443 q 0,-332 -204,-572 -203,-239 -581,-446 443,-183 706,-490 263,-307 263,-724 0,-368 -191,-660 Q 3128,259 2780,92 2432,-75 1956,-75 1474,-75 1132,94 791,263 610,551 430,840 430,1201 q 0,417 248,702 248,286 658,476 -358,171 -540,414 -182,243 -182,620 0,312 126,535 127,223 328,366 202,143 440,210 238,68 461,68 328,0 640,-120 312,-120 514,-375 202,-254 202,-654 z m -2166,-36 q 0,-260 119,-409 120,-149 343,-243 224,-93 529,-192 315,178 472,365 158,187 158,495 0,342 -212,542 -211,200 -599,200 -384,0 -597,-200 -213,-200 -213,-558 z M 2928,1205 q 0,305 -155,482 -154,177 -427,295 -272,119 -629,240 -279,-128 -493,-363 -213,-234 -213,-661 0,-384 236,-606 237,-221 706,-221 472,0 723,238 252,238 252,596 z"
+               transform="scale(0.015625)" />
+          </defs>
+          <use
+             xlink:href="#FiraCode-Regular-38"
+             id="use566" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="xtick_6">
+      <g
+         id="line2d_6">
+        <g
+           id="g574">
+          <use
+             xlink:href="#ma06d0c5b58"
+             x="241.68932"
+             y="271.25"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use572" />
+        </g>
+      </g>
+      <g
+         id="text_6">
+        <!-- 10 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,235.53463,285.825)"
+           id="g584">
+          <defs
+             id="defs578">
+            <path
+               id="FiraCode-Regular-31"
+               d="M 3397,450 V 0 H 788 V 450 H 1900 V 3922 L 863,3292 624,3686 1969,4519 h 483 V 450 Z"
+               transform="scale(0.015625)" />
+          </defs>
+          <use
+             xlink:href="#FiraCode-Regular-31"
+             id="use580" />
+          <use
+             xlink:href="#FiraCode-Regular-30"
+             x="61.538452"
+             id="use582" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="xtick_7">
+      <g
+         id="line2d_7">
+        <g
+           id="g590">
+          <use
+             xlink:href="#ma06d0c5b58"
+             x="281.84531"
+             y="271.25"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use588" />
+        </g>
+      </g>
+      <g
+         id="text_7">
+        <!-- 12 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,275.69062,285.825)"
+           id="g597">
+          <use
+             xlink:href="#FiraCode-Regular-31"
+             id="use593" />
+          <use
+             xlink:href="#FiraCode-Regular-32"
+             x="61.538452"
+             id="use595" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="matplotlib.axis_2">
+    <g
+       id="ytick_1">
+      <g
+         id="line2d_8">
+        <defs
+           id="defs603">
+          <path
+             id="m03aeb92add"
+             d="M 0,0 H -3.5"
+             style="stroke:#000000;stroke-width:0.8" />
+        </defs>
+        <g
+           id="g607">
+          <use
+             xlink:href="#m03aeb92add"
+             x="40.909374"
+             y="271.25"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use605" />
+        </g>
+      </g>
+      <g
+         id="text_8">
+        <!-- 0 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,27.754687,275.0375)"
+           id="g612">
+          <use
+             xlink:href="#FiraCode-Regular-30"
+             id="use610" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="ytick_2">
+      <g
+         id="line2d_9">
+        <g
+           id="g618">
+          <use
+             xlink:href="#m03aeb92add"
+             x="40.909374"
+             y="230.27292"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use616" />
+        </g>
+      </g>
+      <g
+         id="text_9">
+        <!-- 2 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,27.754687,234.06042)"
+           id="g623">
+          <use
+             xlink:href="#FiraCode-Regular-32"
+             id="use621" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="ytick_3">
+      <g
+         id="line2d_10">
+        <g
+           id="g629">
+          <use
+             xlink:href="#m03aeb92add"
+             x="40.909374"
+             y="189.29584"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use627" />
+        </g>
+      </g>
+      <g
+         id="text_10">
+        <!-- 4 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,27.754687,193.08333)"
+           id="g634">
+          <use
+             xlink:href="#FiraCode-Regular-34"
+             id="use632" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="ytick_4">
+      <g
+         id="line2d_11">
+        <g
+           id="g640">
+          <use
+             xlink:href="#m03aeb92add"
+             x="40.909374"
+             y="148.31876"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use638" />
+        </g>
+      </g>
+      <g
+         id="text_11">
+        <!-- 6 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,27.754687,152.10625)"
+           id="g645">
+          <use
+             xlink:href="#FiraCode-Regular-36"
+             id="use643" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="ytick_5">
+      <g
+         id="line2d_12">
+        <g
+           id="g651">
+          <use
+             xlink:href="#m03aeb92add"
+             x="40.909374"
+             y="107.34167"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use649" />
+        </g>
+      </g>
+      <g
+         id="text_12">
+        <!-- 8 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,27.754687,111.12917)"
+           id="g656">
+          <use
+             xlink:href="#FiraCode-Regular-38"
+             id="use654" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="ytick_6">
+      <g
+         id="line2d_13">
+        <g
+           id="g662">
+          <use
+             xlink:href="#m03aeb92add"
+             x="40.909374"
+             y="66.364586"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use660" />
+        </g>
+      </g>
+      <g
+         id="text_13">
+        <!-- 10 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,21.6,70.152083)"
+           id="g669">
+          <use
+             xlink:href="#FiraCode-Regular-31"
+             id="use665" />
+          <use
+             xlink:href="#FiraCode-Regular-30"
+             x="61.538452"
+             id="use667" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="ytick_7">
+      <g
+         id="line2d_14">
+        <g
+           id="g675">
+          <use
+             xlink:href="#m03aeb92add"
+             x="40.909374"
+             y="25.387501"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use673" />
+        </g>
+      </g>
+      <g
+         id="text_14">
+        <!-- 12 -->
+        <g
+           transform="matrix(0.1,0,0,-0.1,21.6,29.175)"
+           id="g682">
+          <use
+             xlink:href="#FiraCode-Regular-31"
+             id="use678" />
+          <use
+             xlink:href="#FiraCode-Regular-32"
+             x="61.538452"
+             id="use680" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="line2d_15">
+    <path
+       d="m 98.140573,222.24537 -0.500149,-0.79366 -0.510607,-0.78852 -0.521019,-0.78323 -0.531379,-0.77781 -0.54169,-0.77225 -0.551945,-0.76653 -0.562146,-0.76069 -0.57229,-0.75469 -0.582375,-0.74857 -0.592398,-0.7423 -0.60236,-0.73589 -0.612256,-0.72935 -0.622087,-0.72266 -0.631849,-0.71585 -0.641541,-0.70889 -0.651162,-0.7018 -0.660709,-0.69458 -0.67018,-0.68721 -0.679575,-0.67973 -0.68889,-0.6721 -0.698125,-0.66434 -0.707277,-0.65646 -0.716345,-0.64845 -0.725327,-0.6403 -0.734222,-0.63202 -0.743026,-0.62364 -0.751741,-0.6151 -0.760361,-0.60646 -0.768887,-0.59768 -0.777317,-0.58879 -0.78565,-0.57977 -0.793881,-0.57064 -0.802013,-0.56138 -0.810042,-0.552 -0.817964,-0.54251 -0.825783,-0.53291 -0.833492,-0.52318 -0.841093,-0.51334 -0.848582,-0.5034 -0.85596,-0.49334 -0.863222,-0.48317 -0.87037,-0.47289 -0.8774,-0.46252 -0.884312,-0.45202 -0.891103,-0.44143 -0.897774,-0.43074 -0.904321,-0.41994 -0.910744,-0.40904 -0.91704,-0.39805 -0.92321,-0.38696 -0.92925,-0.37578 -0.935162,-0.36449 -0.940941,-0.35313 -0.946587,-0.34166 -0.9521,-0.33011 -0.957478,-0.31848 -0.962718,-0.30675 -0.96782,-0.29494 -0.972785,-0.28306 -0.977607,-0.27109 -0.98229,-0.25903 -0.986828,-0.24692 -0.991223,-0.23471 -0.995474,-0.22244 -0.999577,-0.21009 -1.003534,-0.19768 -1.007343,-0.18519 -1.011001,-0.17264 -1.01451,-0.16003 -1.017867,-0.14736 -1.021071,-0.13462"
+       clip-path="url(#pf40c02c2c3)"
+       style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:square"
+       id="path687" />
+  </g>
+  <g
+     id="line2d_16">
+    <path
+       d="m 121.59548,310.6 1.6761,-4.20592 1.80115,-5.18428 1.54655,-5.26114 1.28857,-5.32957 1.02711,-5.38927 0.76216,-5.43984 0.49372,-5.48091 0.22183,-5.51207 -0.0534,-5.53287 -0.33184,-5.54285 -0.6133,-5.54152 -0.89755,-5.5284 -1.1843,-5.503 -1.47321,-5.46477 -1.76387,-5.41324 -2.05583,-5.34787 -2.34858,-5.26818 -2.64156,-5.17366 -2.9341,-5.06383 -3.22553,-4.93826 -3.51508,-4.79649 -3.80195,-4.63816 -4.08522,-4.46289 -2.878669,-2.86938 -3.001,-2.77865 -3.12154,-2.6827 -3.240078,-2.5815 -3.356393,-2.47501 -3.470259,-2.36322 -3.581441,-2.24614 -3.689699,-2.12374 -3.794789,-1.99605 -3.896456,-1.8631 -3.994448,-1.72492 -4.088499,-1.58156 -4.178348,-1.43308 -4.263724,-1.27958 -4.344355,-1.12111 -2.200857,-0.49962 v 0"
+       clip-path="url(#pf40c02c2c3)"
+       style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:square"
+       id="path690" />
+  </g>
+  <g
+     id="line2d_17">
+    <path
+       d="m 40.909479,271.2506 -1.04e-4,-6e-4 v 0"
+       clip-path="url(#pf40c02c2c3)"
+       style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:square"
+       id="path693" />
+  </g>
+  <g
+     id="line2d_18">
+    <path
+       d="m 184.67957,310.6 1.98368,-4.8931 2.04087,-5.58851 1.84787,-5.6959 1.65001,-5.7969 1.44749,-5.89129 1.24048,-5.97886 1.0292,-6.05944 0.81384,-6.1328 0.59461,-6.19879 0.37175,-6.25719 0.14546,-6.30785 -0.084,-6.3506 -0.3164,-6.38527 -0.55149,-6.4117 -0.78902,-6.42974 -1.02872,-6.43926 -1.27032,-6.44012 -1.51355,-6.43218 -1.75813,-6.41534 -2.00378,-6.38947 -2.25019,-6.35449 -2.49707,-6.31029 -2.74413,-6.25678 -2.99104,-6.19392 -3.23749,-6.12159 -3.48319,-6.03978 -3.72777,-5.94842 -3.97095,-5.84749 -4.21237,-5.73694 -4.4517,-5.61679 -4.68862,-5.487 -4.92277,-5.34761 -5.15382,-5.19861 -5.38141,-5.04005 -5.60521,-4.87196 -5.82486,-4.694394 -6.04001,-4.507425 -6.25031,-4.311124 -6.4554,-4.105582 -6.654946,-3.890901 -6.848576,-3.667194 -7.035945,-3.434592 -7.216699,-3.193232 -7.390488,-2.943268 -7.556961,-2.684867 -7.715773,-2.418206 -7.866576,-2.143481 -5.324054,-1.27247 v 0"
+       clip-path="url(#pf40c02c2c3)"
+       style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:square"
+       id="path696" />
+  </g>
+  <ellipse
+     style="fill:#808080;fill-opacity:0.363717;stroke:none;stroke-width:12.7116;stroke-linejoin:round"
+     id="path2106"
+     cx="-206.67233"
+     cy="-206.66327"
+     rx="69.50071"
+     ry="18.5725"
+     transform="matrix(-0.98515002,0.17169576,0.46647641,-0.88453364,0,0)" />
+  <g
+     id="line2d_19">
+    <path
+       d="m 212.71767,310.6 2.07239,-5.38631 2.31145,-6.67995 2.07927,-6.8097 1.84098,-6.93166 1.59678,-7.04553 1.34691,-7.15109 1.09164,-7.24802 0.83121,-7.33613 0.5659,-7.41512 0.29598,-7.48478 0.0217,-7.54487 -0.25652,-7.59516 -0.53848,-7.63545 -0.82384,-7.66553 -1.11226,-7.68519 -1.40339,-7.69426 -1.69692,-7.69256 -1.99247,-7.67992 -2.28968,-7.65619 -2.58819,-7.62122 -2.8876,-7.57489 -3.18756,-7.51707 -3.48764,-7.44764 -3.78747,-7.36655 -4.08663,-7.27367 -4.3847,-7.16896 -4.68129,-7.05235 -4.97594,-6.92381 -5.26826,-6.783314 -5.55779,-6.630844 -5.8441,-6.466407 -6.12677,-6.290021 -6.40533,-6.101719 -4.42275,-3.957339 -4.54308,-3.864875 -4.66188,-3.768924 -4.77904,-3.669506 -4.89447,-3.56664 -5.00808,-3.460346 -5.11981,-3.350647 -5.22953,-3.237573 -5.33718,-3.121148 -5.44266,-3.001404 -5.545872,-2.878372 -5.646743,-2.75209 -5.745176,-2.622593 -5.841084,-2.489919 -5.93438,-2.354112 -6.024975,-2.215216 -6.112784,-2.073275 -6.197716,-1.92834 -6.27969,-1.78046 -6.358616,-1.629689 -3.20793,-0.757417 v 0"
+       clip-path="url(#pf40c02c2c3)"
+       style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:square"
+       id="path699" />
+  </g>
+  <g
+     id="line2d_20">
+    <path
+       d="m 44.244756,290.55267 1.850652,-1.17101 1.654899,-1.31321 1.453978,-1.42963 1.326614,-1.62498 1.095076,-1.69945 0.866371,-1.7459 0.676079,-1.87633 0.433539,-1.86937 0.203074,-1.83531 -0.02023,-1.87896 -0.243234,-1.78759 -0.445069,-1.67393 -0.663776,-1.62294 -0.83573,-1.45758 -0.979266,-1.27863 -1.154454,-1.14224 -1.248859,-0.92712 -0.258257,-0.15937 v 0"
+       clip-path="url(#pf40c02c2c3)"
+       style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:square"
+       id="path702" />
+  </g>
+  <g
+     id="line2d_21">
+    <path
+       d="M 40.909375,49.945065 281.84531,242.72589 v 0"
+       clip-path="url(#pf40c02c2c3)"
+       style="fill:none;stroke:#000000;stroke-dasharray:3.7, 1.6;stroke-dashoffset:0"
+       id="path705" />
+  </g>
+  <g
+     id="line2d_22">
+    <path
+       d="m 40.909375,271.25 4.254754,-5.53724 4.254754,-5.53725 4.254755,-5.53724 4.254754,-5.53725 4.254754,-5.53724 4.254754,-5.53724 4.254754,-5.53725 4.254755,-5.53724 4.254754,-5.53724 4.254754,-5.53725 4.254754,-5.53724 4.254754,-5.53725 4.254754,-5.53724 4.254751,-5.53724 4.25476,-5.53725 4.25475,-5.53724 4.25476,-5.53724 4.25475,-5.53725 4.25476,-5.53724 4.25475,-5.53725 4.25475,-5.53724 4.25476,-5.53724 4.25475,-5.53725 4.25476,-5.53724 4.25475,-5.53724 4.25475,-5.53725 4.25476,-5.53724 4.25475,-5.53725 4.25476,-5.53724 4.25475,-5.53724 4.25475,-5.537247 4.25476,-5.537244 4.25475,-5.537244 4.25476,-5.537243 4.25475,-5.537244 4.25476,-5.537244 4.25475,-5.537244 4.25475,-5.537243 4.25476,-5.537244 4.25475,-5.537244 4.25476,-5.537244 4.25475,-5.537243 4.25476,-5.537244 4.25475,-5.537244 4.25475,-5.537244 4.25476,-5.537244 4.25475,-5.537243 4.25476,-5.537244 4.25475,-5.537244 L 250.10313,-1"
+       clip-path="url(#pf40c02c2c3)"
+       style="fill:none;stroke:#000000;stroke-dasharray:3.7, 1.6;stroke-dashoffset:0"
+       id="path708" />
+  </g>
+  <g
+     id="line2d_23"
+     transform="rotate(1.4319223,220.35834,161.77505)">
+    <path
+       d="M 40.909375,37.549719 281.84531,264.02817 v 0"
+       clip-path="url(#pf40c02c2c3)"
+       style="fill:none;stroke:#ff0000;stroke-linecap:square"
+       id="path711" />
+  </g>
+  <g
+     id="patch_3">
+    <path
+       d="M 40.909375,271.25 V 25.3875"
+       style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter"
+       id="path714" />
+  </g>
+  <g
+     id="patch_4">
+    <path
+       d="M 281.84531,271.25 V 25.3875"
+       style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter"
+       id="path717" />
+  </g>
+  <g
+     id="patch_5">
+    <path
+       d="M 40.909375,271.25 H 281.84531"
+       style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter"
+       id="path720" />
+  </g>
+  <g
+     id="patch_6">
+    <path
+       d="M 40.909375,25.3875 H 281.84531"
+       style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter"
+       id="path723" />
+  </g>
+  <g
+     id="PathCollection_1">
+    <defs
+       id="defs727">
+      <path
+         id="mb8c9a9d967"
+         d="M 0,3 C 0.795609,3 1.55874,2.683901 2.12132,2.12132 2.683901,1.55874 3,0.795609 3,0 3,-0.795609 2.683901,-1.55874 2.12132,-2.12132 1.55874,-2.683901 0.795609,-3 0,-3 -0.795609,-3 -1.55874,-2.683901 -2.12132,-2.12132 -2.683901,-1.55874 -3,-0.795609 -3,0 -3,0.795609 -2.683901,1.55874 -2.12132,2.12132 -1.55874,2.683901 -0.795609,3 0,3 Z"
+         style="stroke:#ff0000" />
+    </defs>
+    <g
+       clip-path="url(#pf40c02c2c3)"
+       id="g731">
+      <use
+         xlink:href="#mb8c9a9d967"
+         x="181.03802"
+         y="169.18413"
+         style="fill:#ff0000;stroke:#ff0000"
+         id="use729" />
+    </g>
+  </g>
+  <g
+     id="PathCollection_2">
+    <g
+       clip-path="url(#pf40c02c2c3)"
+       id="g736">
+      <use
+         xlink:href="#mb8c9a9d967"
+         x="225.15308"
+         y="210.6707"
+         style="fill:#ff0000;stroke:#ff0000"
+         id="use734" />
+    </g>
+  </g>
+  <g
+     id="PathCollection_3">
+    <defs
+       id="defs740">
+      <path
+         id="mc2b8c82cd8"
+         d="m 0,-6.123724 -1.374862,4.231389 H -5.824008 L -2.224573,0.722808 -3.599435,4.954197 0,2.339054 3.599435,4.954197 2.224573,0.722808 5.824008,-1.892335 H 1.374862 Z"
+         style="stroke:#0000ff" />
+    </defs>
+    <g
+       clip-path="url(#pf40c02c2c3)"
+       id="g744">
+      <use
+         xlink:href="#mc2b8c82cd8"
+         x="146.21454"
+         y="134.20322"
+         style="fill:#0000ff;stroke:#0000ff"
+         id="use742" />
+    </g>
+  </g>
+  <g
+     id="PathCollection_4">
+    <defs
+       id="defs748">
+      <path
+         id="md6bbe5307a"
+         d="M -6.123724,6.123724 6.123724,-6.123724 m -12.247448,0 12.247448,12.247448"
+         style="stroke:#0000ff" />
+    </defs>
+    <g
+       clip-path="url(#pf40c02c2c3)"
+       id="g752">
+      <use
+         xlink:href="#md6bbe5307a"
+         x="40.909374"
+         y="271.25"
+         style="fill:#0000ff;stroke:#0000ff"
+         id="use750" />
+    </g>
+  </g>
+  <defs
+     id="defs760">
+    <clipPath
+       id="pf40c02c2c3">
+      <rect
+         x="40.909375"
+         y="25.3875"
+         width="240.935938"
+         height="245.8625"
+         id="rect757" />
+    </clipPath>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#0000ff;stroke-width:0.75"
+     x="116.30157"
+     y="141.27826"
+     id="text870"><tspan
+       sodipodi:role="line"
+       id="tspan868"
+       style="fill:#0000ff;stroke-width:0.75"
+       x="116.30157"
+       y="141.27826">Sun</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ff0000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="126.60969"
+     y="218.25587"
+     id="text870-9"><tspan
+       sodipodi:role="line"
+       id="tspan868-2"
+       style="fill:#ff0000;stroke-width:0.75"
+       x="126.60969"
+       y="218.25587">d1=8.6kPc</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ff0000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="147.55408"
+     y="247.60512"
+     id="text870-9-0"><tspan
+       sodipodi:role="line"
+       id="tspan868-2-2"
+       style="fill:#ff0000;stroke-width:0.75"
+       x="147.55408"
+       y="247.60512">d2=9.6kPc</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#0000ff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="6.7787762"
+     y="286.66025"
+     id="text870-3"><tspan
+       sodipodi:role="line"
+       id="tspan868-6"
+       style="fill:#0000ff;stroke-width:0.75"
+       x="6.7787762"
+       y="286.66025">SgA*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.75"
+     x="215.3882"
+     y="121.45688"
+     id="text1065"><tspan
+       sodipodi:role="line"
+       id="tspan1063"
+       style="stroke-width:0.75"
+       x="215.3882"
+       y="121.45688" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.75"
+     x="130.70854"
+     y="179.3148"
+     id="text1069"><tspan
+       sodipodi:role="line"
+       id="tspan1067"
+       style="font-weight:bold;stroke-width:0.75"
+       x="130.70854"
+       y="179.3148">Q1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="55.662674"
+     y="119.78949"
+     id="text1069-7"><tspan
+       sodipodi:role="line"
+       id="tspan1067-5"
+       style="font-weight:bold;stroke-width:0.75"
+       x="55.662674"
+       y="119.78949">Q2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="245.49124"
+     y="128.73715"
+     id="text1069-3"><tspan
+       sodipodi:role="line"
+       id="tspan1067-56"
+       style="font-weight:bold;stroke-width:0.75"
+       x="245.49124"
+       y="128.73715">Q4</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="140.81738"
+     y="47.942585"
+     id="text1069-2"><tspan
+       sodipodi:role="line"
+       id="tspan1067-9"
+       style="font-weight:bold;stroke-width:0.75"
+       x="140.81738"
+       y="47.942585">Q3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#808080;fill-opacity:1;stroke-width:0.75"
+     x="119.0669"
+     y="268.37137"
+     id="text1475"><tspan
+       sodipodi:role="line"
+       style="fill:#808080;fill-opacity:1;stroke-width:0.75"
+       x="119.0669"
+       y="268.37137"
+       id="tspan1477">S</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#808080;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="44.074909"
+     y="175.92065"
+     id="text1475-9"><tspan
+       sodipodi:role="line"
+       style="fill:#808080;fill-opacity:1;stroke-width:0.75"
+       x="44.074909"
+       y="175.92065"
+       id="tspan1477-3">S</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#808080;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="69.382576"
+     y="146.2431"
+     id="text1475-9-1"><tspan
+       sodipodi:role="line"
+       style="fill:#808080;fill-opacity:1;stroke-width:0.75"
+       x="69.382576"
+       y="146.2431"
+       id="tspan1477-3-8">Cygnus</tspan><tspan
+       sodipodi:role="line"
+       style="fill:#808080;fill-opacity:1;stroke-width:0.75"
+       x="69.382576"
+       y="161.2431"
+       id="tspan2747">-spur</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#808080;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="184.58986"
+     y="268.35889"
+     id="text1475-1"><tspan
+       sodipodi:role="line"
+       style="fill:#808080;fill-opacity:1;stroke-width:0.75"
+       x="184.58986"
+       y="268.35889"
+       id="tspan1477-2">P</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#808080;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="44.179615"
+     y="75.967957"
+     id="text1475-1-6"><tspan
+       sodipodi:role="line"
+       style="fill:#808080;fill-opacity:1;stroke-width:0.75"
+       x="44.179615"
+       y="75.967957"
+       id="tspan1477-2-06">P</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#808080;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="212.90097"
+     y="268.45563"
+     id="text1475-1-7"><tspan
+       sodipodi:role="line"
+       style="fill:#808080;fill-opacity:1;stroke-width:0.75"
+       x="212.90097"
+       y="268.45563"
+       id="tspan1477-2-0">N</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#808080;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="62.667763"
+     y="36.769268"
+     id="text1475-1-7-2"><tspan
+       sodipodi:role="line"
+       style="fill:#808080;fill-opacity:1;stroke-width:0.75"
+       x="62.667763"
+       y="36.769268"
+       id="tspan1477-2-0-6">N</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="105.39685"
+     y="301.66644"
+     id="text870-3-3"><tspan
+       sodipodi:role="line"
+       id="tspan868-6-6"
+       style="fill:#000000;stroke-width:0.75"
+       x="105.39685"
+       y="301.66644">distance in kPc</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     x="-201.47458"
+     y="16.943237"
+     id="text870-3-3-7"
+     transform="rotate(-90.012198)"><tspan
+       sodipodi:role="line"
+       id="tspan868-6-6-5"
+       style="fill:#000000;stroke-width:0.75"
+       x="-201.47458"
+       y="16.943237">distance in kPc</tspan></text>
+</svg>
